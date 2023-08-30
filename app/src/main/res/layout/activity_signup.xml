@@ -163,7 +163,7 @@
         app:srcCompat="@drawable/con_password" />
 
     <Button
-        android:id="@+id/btn_signup"
+        android:id="@+id/btn_signup2"
         android:layout_width="263dp"
         android:layout_height="43dp"
         android:backgroundTint="#1087FD"
