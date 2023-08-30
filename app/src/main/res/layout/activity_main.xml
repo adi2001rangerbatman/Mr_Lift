@@ -10,7 +10,7 @@
     tools:context=".MainActivity">
 
     <Button
-        android:id="@+id/btn_signup"
+        android:id="@+id/btn_signup2"
         android:layout_width="340dp"
         android:layout_height="45dp"
         android:backgroundTint="#1087FD"
