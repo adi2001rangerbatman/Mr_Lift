@@ -16,6 +16,8 @@ public class Signup extends AppCompatActivity {
 
     Button btnsignup;
     FirebaseAuth auth;
+    FirebaseDatabase database;
+    DatabaseReference reference;
 
 
 
@@ -37,6 +39,7 @@ public class Signup extends AppCompatActivity {
                 startActivity(homeintent);
             }
         });
+
 
 
     }
