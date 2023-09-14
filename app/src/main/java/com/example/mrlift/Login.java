@@ -43,7 +43,6 @@ public class Login extends AppCompatActivity {
         getSupportActionBar().hide();
         setContentView(R.layout.activity_login);
 
-
         btnlogin = findViewById(R.id.btn_login2);
         editTextPassword=findViewById(R.id.editTextPassword);
         editTextUserName=findViewById(R.id.editTextUserName);
